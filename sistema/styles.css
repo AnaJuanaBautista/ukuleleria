@@ -1,0 +1,93 @@
+* { 
+  font-family:verdana,sans-serif; 
+  font-size  :16pt; 
+}
+body {
+  width     :105%; 
+  margin    :20px auto; 
+  background: #627889;
+  border    : 1px solid black;
+} 
+head{
+background-color:  #627889;
+border    : 1px solid blueviolet;
+}
+html { 
+  background: #627889;
+}
+img { 
+  border            :1px solid black; 
+  margin-right      :15px; 
+  -moz-box-shadow   :2px 2px 2px #888; 
+  -webkit-box-shadow:2px 2px 2px #888; 
+  box-shadow        :2px 2px 2px #888; 
+} 
+.username { /* es el color de la linea que esta abajo de la imagen*/
+  text-align :center; 
+  background : #627889;
+  color      :rgb(0, 0, 0); 
+  font-family:Helvetica; 
+  font-size  :20pt; 
+  padding    : 4px;
+} 
+.info { 
+  font-style :italic; 
+  margin     :40px 0px; 
+  text-align :center; 
+}
+.center { 
+  text-align:center; 
+} 
+.subhead { 
+  font-weight:bold; 
+}
+.taken, .error { 
+  color:red; 
+}  
+.available { 
+  color:green;
+}
+.whisper {
+  font-style:italic;
+  color     :#006600;
+}
+#logo { /*es el color del titulo ukuleleria*/
+  font-family:Comic;
+  font-weight:bold;
+  font-style :italic;
+  font-size  :97px;
+  color      :#897454;
+}
+#robin{
+  position            :relative;
+  border              :0px; 
+  margin-left         :-6px;
+  margin-right         :0px;
+  top                 :17px;
+  -moz-box-shadow     :0px 0px 0px;
+  -webkit-box-shadow  :0px 0px 0px;
+  box-shadow          :0px 0px 0px;
+}
+#useds{
+  margin-top:50px;
+}
+.ejemplo{ /* Cree esta clase para cambiarle de color al fondo.*/
+  width     :700%; 
+  margin    :20px auto; 
+  background: #e9f6ff;
+  border    : 1px solid black;
+}
+.content {
+  background-color: #B2FBFC;
+  border: 5px solid black;
+  }
+  .img-circle {
+    border: 3px solid rgb(2, 2, 82);
+    border-radius: 40%;
+}
+.content-box-blue {
+  background-color: #d5e7f5;
+  border: 2px solid black
+  }
+
+
