@@ -1,0 +1,23 @@
+{
+  "name": "ukuleleria",
+  "version": "1.0.0",
+  "description": "mi negocio web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaJuanaBautista/ukuleleria.git"
+  },
+  "author": "AnaJuanaBautista <anaescamilla731\u0016@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaJuanaBautista/ukuleleria/issues"
+  },
+  "homepage": "https://github.com/AnaJuanaBautista/ukuleleria#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-mobile": "^1.5.0-alpha.1"
+  }
+}

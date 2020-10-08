@@ -1,0 +1,14 @@
+{
+    "name": "usuario/ukuleleria",
+    "description": "mi negocio web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "AnaJuanaBautista",
+            "email": "anaescamilla731@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.5"
+    }
+}
